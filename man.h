@@ -1,0 +1,13 @@
+#define IDB_BEIJIN 10
+#define IDB_DINGBAN 20
+#define IDB_SUIZHUAN 30
+#define IDB_TANBAN 40
+#define IDB_YOUZHUAN 50
+#define IDB_ZUOZHUAN 60
+#define IDB_ZHUAN 70
+#define IDB_RENWU 80
+#define IDB_TOU 90
+#define IDB_SC 100
+#define IDB_SHU 110
+#define IDB_JS 120
+#define IDB_HP 130
